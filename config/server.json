@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "enableSSL": false,
+  "sslPort": 8443,
+  "deployDir": "D:/Finance/WSC/quant22/Flowus/",
+  "logFileDir": "D:/Finance/WSC/quant22/Flowus/logs/"
+}
